@@ -45,13 +45,13 @@ IR deals with the study of **information retrieval** techniques based on the inp
 
 # Authors
 #### Archit Bansal
-Department of Textile & Fibre Engineering
-Indian Institute of Technology Delhi
-Hauz Khas, New Delhi, India
+Department of Textile & Fibre Engineering<br />
+Indian Institute of Technology Delhi<br />
+Hauz Khas, New Delhi, India<br />
 tt1180924@iitd.ac.in
 
 #### Saurav Mittal
-Department of Chemical Engineering
-Indian Institute of Technology Delhi
-Hauz Khas, New Delhi, India
+Department of Chemical Engineering<br />
+Indian Institute of Technology Delhi<br />
+Hauz Khas, New Delhi, India<br />
 ch1180243@iitd.ac.in
